@@ -105,7 +105,6 @@ GamaClassifier(
 - Визуализации:
   - `roc_curve.png` — ROC-кривая с AUC на тестовой выборке;
   - `feature_importance.png` — ранжирование признаков по вкладу в предсказание;
-  - `gama_model_comparison.png` — топ-15 моделей из эволюционного поиска.
 
 ## Результаты
 
